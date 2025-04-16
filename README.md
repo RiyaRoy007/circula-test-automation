@@ -26,7 +26,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/circula-test-automation.git
+   git clone https://github.com/RiyaRoy007/circula-test-automation
    cd circula-test-automation
    ```
 
